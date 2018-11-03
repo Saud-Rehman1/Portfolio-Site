@@ -7,7 +7,7 @@
 			<div class="preload-placeholder"></div>
 		</div>
 	</div>
- 
+
 	<!-- Home Section -->
 	<section id="home" class="tt-fullHeight" data-stellar-vertical-offset="50" data-stellar-background-ratio="0.2">
 		<div class="intro intro-section">
